@@ -1,2 +1,2 @@
-# MCB
+# Assignment
 MACROECONOMICS
